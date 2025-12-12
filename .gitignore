@@ -1,0 +1,9 @@
+# Ignore Data
+data/raw/
+data/processed/
+
+# Ignore Mac System Files
+.DS_Store
+
+# Ignore Jupyter Checkpoints
+.ipynb_checkpoints/

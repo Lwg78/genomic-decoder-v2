@@ -1,0 +1,10 @@
+torch
+torchvision
+pandas
+numpy<2.0
+scanpy
+biopython
+seaborn
+matplotlib
+jupyterlab
+h5py
